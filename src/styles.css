@@ -1,4 +1,18 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
+.checkboxgroup_806638 {
+  columns: 100px 3;
+}
+
+.label_584078 {
+  width: 100px;
+  display: block;
+}
+
+.label_584078:hover {
+  cursor: pointer;
+}
+
+.columns_936096 {
+  display: flex;
+  width: 200px;
+  margin: 20px auto;
 }
